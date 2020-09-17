@@ -3,9 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="416px" height="320.833px" viewBox="0 0 416 320.833" enable-background="new 0 0 416 320.833" xml:space="preserve">
-<script>
+<script><![CDATA[
+window.alert('potato');
 console.log('potato');
-</script>
+console.log(document.getElementById('Layer_1'));
+document.getElementById('Layer_1').setAttribute("width", "100");
+]]></script>
 <g>
 	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#F2F2F2" points="407.294,276.595 407.711,277.847 408.547,280.214 
 		409.104,283.277 409.104,286.896 407.434,290.237 403.813,293.299 397.408,295.666 387.663,297.196 376.524,297.614 
