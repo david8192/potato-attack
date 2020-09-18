@@ -26,7 +26,7 @@ They hid my iframe
 </a>
 <button class="mat-focus-indicator mat-flat-button mat-button-base mat-primary">potato attaaaack</button>
 <br />
-<span class="mat-focus-indicator mat-flat-button mat-button-base mat-primary"><a href="javascript%0Awindow.alert('mashing')">Delete Your Potatoes</a></span>
+<span class="mat-focus-indicator mat-flat-button mat-button-base mat-primary"><a href="%0Ajavascript:window.alert('mashing')">Delete Your Potatoes</a></span>
 <span class="mat-focus-indicator mat-flat-button mat-button-base mat-primary" onclick="window.alert('frying')">Fry your potatoes</span>
 </markdown>
 <form onsubmit="window.alert('done');">
