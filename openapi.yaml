@@ -50,7 +50,7 @@ tags:
 - name: lambdaEvents
   description: Query lambda events triggered by GitHub Apps
 - name: metadata
-  description: Information about Dockstore like RSS, sitemap, lists of dependencies,
+  description: asdasdInformation about Dockstore like RSS, sitemap, lists of dependencies,
     etc.
 - name: curation
   description: List and modify notifications for users of Dockstore
