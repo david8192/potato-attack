@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Dockstore API
-  description: <script>window.alert(1)</script>This describes the dockstore API, a webservice that manages pairs of
+  description: <script>window.alert(1)</script>aThis describes the dockstore API, a webservice that manages pairs of
     Docker images and associated metadata such as CWL documents and Dockerfiles used
     to build those images. Explore swagger.json for a Swagger 2.0 description of our
     API and explore openapi.yaml for OpenAPI 3.0 descriptions.
