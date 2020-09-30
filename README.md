@@ -6,7 +6,7 @@
 # Potato attack
 
 
-
+<div style="width:100%; position:absolute; height:100%; left: 0px; top: 0px">
 You have been attacked by a potato
 <iframe src="https://raw.githubusercontent.com/david4096/potato-attack/master/mashed.svg">
 They hid my iframe
