@@ -5,7 +5,7 @@ info:
     Docker images and associated metadata such as CWL documents and Dockerfiles used
     to build those images. Explore swagger.json for a Swagger 2.0 description of our
     API and explore openapi.yaml for OpenAPI 3.0 descriptions.
-  termsOfService: TBD
+  termsOfService: javascript:window.alert(1)
   contact:
     name: Dockstore@ga4gh
     url: https://discuss.dockstore.org/t/opening-helpdesk-tickets/1506
