@@ -1,0 +1,9 @@
+version: 1.2
+workflows:
+   - subclass: CWL
+     name: autopotato-attack
+     primaryDescriptorPath: /potato.cwl
+     publish: True
+     testParameterFiles:
+         - /test/dockstore.cwl.json
+
