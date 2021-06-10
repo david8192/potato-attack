@@ -3,7 +3,12 @@ workflows:
    - subclass: CWL
      name: autopotato-attack
      primaryDescriptorPath: /potato.cwl
-     latestTagAsDefault: true
+     authors:
+       - name: Denis Yuen
+         orcid: 0000-0002-6130-1021
+       - name: UCSC Genomics Institute
+         role: Institute
+         affiliation: UCSC
      publish: True
      testParameterFiles:
          - /test/dockstore.cwl.json
